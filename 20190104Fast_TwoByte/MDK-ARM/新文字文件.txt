@@ -1,0 +1,9 @@
+1 - Show
+2 - Send
+3 - ShowAdd
+4 - Move
+5 - Warn Too
+6 - Warn No
+7 - Sight
+8 - Busy
+9 - NonBusy
