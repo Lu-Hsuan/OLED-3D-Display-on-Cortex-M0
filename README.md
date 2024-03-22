@@ -5,6 +5,6 @@ OLED 3D Display on Cortex M0+
 * Use UART transfer data between board and computer
 * Implement control panel and 3D operation
 # Demo
-![](ARM_oled.gif)
-![](oled_example.gif)
+![](ARM_oled.gif =100x100)
+![](oled_example.gif =100x100)
 ![](demo.png)
